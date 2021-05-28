@@ -18,7 +18,7 @@ const HomeHeader: React.FC<HomeHeaderProps> = ({ IconRight }) => {
   return (
     <View style={styles(theme).container}>
       <View>
-        <Text style={styles(theme).topTitle}>PROXIMITY</Text>
+        <Text style={styles(theme).topTitle}>POOP MATES</Text>
         <Text style={styles(theme).title}>{weekdayNow}</Text>
       </View>
       {IconRight && <IconRight />}
