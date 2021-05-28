@@ -23,7 +23,7 @@ export const DynamicStatusBar: DynamicStatusBarType = {
 };
 
 export const ThemeStatic: ThemeStaticType = {
-  accent: '#846BE2',
+  accent: '#381c00',
   white: '#FFFFFF',
   black: '#000000',
   text01: '#000000',
@@ -42,7 +42,7 @@ export const Theme: {
   light: {
     type: 'light',
     colors: {
-      accent: '#846BE2',
+      accent: '#381c00',
       base: '#FFFFFF',
       text01: '#000000',
       text02: '#BBBBBB',
@@ -53,8 +53,8 @@ export const Theme: {
   dark: {
     type: 'dark',
     colors: {
-      accent: '#846BE2',
-      base: '#121212',
+      accent: '#0c0600',
+      base: '#3d1e00',
       text01: '#FFFFFF',
       text02: '#BBBBBB',
       placeholder: '#222',
